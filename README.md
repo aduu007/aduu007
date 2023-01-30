@@ -2,26 +2,26 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Abdul Qayyum and I am a IT student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the MERN stack through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hi there! 👋 My name is Abdul Qayyum and I am a IT student at Air University, Islamabad. My passion lies in web development. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
 ## 👯 Connect with me
 <p>
-    <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
+    <a href="https://www.linkedin.com/in/abdul-qayyum-701320249/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahqaisarr@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=qayyummalik04@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://github.com/abdullahqaisar" target="_blank">
+    <a href="https://github.com/aduu007" target="_blank">
         <img alt="Gmail"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
 
 ## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="abdullahqaisar" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aduu007&theme=algolia"
+        alt="aduu007" /></p>
 
 ## 🛠️ My Skills
 
@@ -76,11 +76,11 @@ Hi there! 👋 My name is Abdul Qayyum and I am a IT student at Air University, 
 
 ## 📊 Github Stats
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdul Qayyum's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=aduu007&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="abdullahqaisar" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aduu007&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="aduu007" height="192px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
